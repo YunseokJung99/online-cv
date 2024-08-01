@@ -55,20 +55,20 @@ career-profile:
     title: Career Profile
     summary: |
       Yunseok Jung received the B.S. degree in Materials Science and Engineering in 2024 from Gwangju Institute of Science and Technology (GIST), Gwangju, South Korea. He is currently the M.S. candidate in electrical engineering in 2024 from Pohang University of Science and Technology(POSTECH), Pohang, South Korea. His current research interests include Electronic Design Automation, Analog Circuit Optimization, etc. He is working with Prof. Seokhyeong Kang in CAD & SoC Design Lab.
-education:
-    title: Education
-    info:
-      - degree: MSc in Computer Science
-        university: University of London
-        time: 2011 - 2012
-        details: |
-          Describe your study here lorem ipsum dolor sit amet, consectetuer
-          adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum
-          sociis natoque penatibus et magnis dis parturient montes, nascetur
-          ridiculus mus. Donec quam felis, ultricies nec, pellentesque eu,
-          pretium quis, sem.
-            - Bullet point
-            - Bullet point
+#education:
+#    title: Education
+#    info:
+#      - degree: MSc in Computer Science
+#        university: University of London
+#        time: 2011 - 2012
+#        details: |
+#          Describe your study here lorem ipsum dolor sit amet, consectetuer
+#          adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum
+#          sociis natoque penatibus et magnis dis parturient montes, nascetur
+#          ridiculus mus. Donec quam felis, ultricies nec, pellentesque eu,
+#          pretium quis, sem.
+#            - Bullet point
+#            - Bullet point
 
 
 certifications:
