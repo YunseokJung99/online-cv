@@ -70,15 +70,6 @@ career-profile:
 #            - Bullet point
 #            - Bullet point
 
-experiences:
-    title: Experiences
-    info:
-      - role: Undergraduate Research Intern
-        time: Aug 2023 - June 2024
-        company: ANEPTL, GIST, Republic of Korea
-        details: |
-            - Development of 2D FET Manufacturing Recipe using metal wet transfer
-            - MoTe2-Au 2D FET fabrication / Optimization of process condition
 
 certifications:
       title: education
@@ -101,6 +92,18 @@ certifications:
           credentialname:
           details: |
 
+experiences:
+    title: Experiences
+    info:
+      - role: Undergraduate Research Intern
+        time: Aug 2023 - June 2024
+        company: ANEPTL, GIST, Republic of Korea
+        details: |
+            - Development of 2D FET Manufacturing Recipe using metal wet transfer
+            - MoTe2-Au 2D FET fabrication / Optimization of process condition
+
+
+
 projects:
     title: Award & scholarshipment
     intro: >
@@ -109,7 +112,7 @@ projects:
         link: "#hook"
         tagline: "Dec 2023"
 
-      - title: SK Materials Scholarship
+      - title: SK Materials Scholarship for Talent Development
         link: "#"
         tagline: "Sep 2023"
 
@@ -136,11 +139,11 @@ publications:
     title: Publications
     intro: |
 
-    papers:
-      - title:
-        link:
-        authors:
-        conference:
+#    papers:
+#      - title:
+#        link:
+#        authors:
+#        conference:
 
 skills:
     title: Skills &amp; Proficiency
@@ -150,7 +153,7 @@ skills:
         level: 25%
 
       - name: C/C++
-        level: 20%
+        level: 15%
 
 
 footer: >
