@@ -84,7 +84,9 @@ certifications:
           details: |
               Advisor: Prof. Seokhyeong Kang
 
-        - name: B.Sc in Materials Science and Engineering
+        - name: |
+        
+              B.Sc in Materials Science and Engineering
           start: Mar 2018
           end: Aug 2024
           organization: GIST, Republic of Korea
