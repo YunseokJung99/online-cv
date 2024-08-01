@@ -81,8 +81,7 @@ certifications:
           credentialid:
           credentialurl:
           credentialname:
-          details: |
-              Advisor: Prof. Seokhyeong Kang
+          details: Advisor: Prof. Seokhyeong Kang
 
         - name: B.Sc in Materials Science and Engineering
           start: Mar 2018
