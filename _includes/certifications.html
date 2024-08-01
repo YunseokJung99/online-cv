@@ -36,10 +36,11 @@
         </div>
         {% endif %}
       </div>
+      <div class="details">{{ certifications.details | markdownify }}</div>
     </div>
     <!--//meta-->
 
-    <div class="details">{{ certifications.details | markdownify }}</div>
+    
   </div>
   <!--//item-->
   {% endfor %}
