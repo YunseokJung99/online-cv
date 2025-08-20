@@ -45,7 +45,7 @@ sidebar:
         - item: Electrical Design Automation
           link:
 
-        - item: Analog Circuit Optimization
+        - item: RTL-Level Power Estimation
           link:
 
         - item: #Cooking
@@ -153,7 +153,7 @@ skills:
       - name: Python
         level: 25%
 
-      - name: C/C++
+      - name: Verilog
         level: 15%
 
 
